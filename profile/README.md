@@ -1,1 +1,1 @@
-# The home of BioCycle
+# The home of Tara Studio
